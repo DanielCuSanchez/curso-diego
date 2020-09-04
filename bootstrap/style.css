@@ -1,0 +1,11 @@
+@media (max-width: 1200px) {
+	.rojo {
+		display: block;
+		background-color: red !important;
+	}
+}
+
+.bg-blue {
+	background-color: rgb(31, 31, 109);
+	color: #fefefe;
+}
